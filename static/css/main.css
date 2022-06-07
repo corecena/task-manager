@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+h2{
+    margin: 0;
+}
+
+.content{
+    width: 500px;
+    margin: auto;
+}
+
+table{
+    
+    margin-bottom: 10px;
+    margin: auto;
+}
+
+td{
+}
+
+th{
+    background: #1ff267;
+    margin-bottom: 5px;
+}
+.form{
+     margin-left: 125px;
+     margin-top: 20px;
+}
